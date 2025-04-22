@@ -1,2 +1,1 @@
-# GOKUL.B.S
-NAND 2 TETRIS (Assignment)
+# NAND 2 TETRIS (Assignment)
